@@ -1,1 +1,1 @@
-Contains all files for the second iteration.
+Contains all files for the second iteration. Model1_iteration2, and model2_iteration2 is the machine learning model. Other files are back ups in case a csv file was missing. 
